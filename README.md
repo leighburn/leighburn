@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Liban Abdullahi
+<h1 align="center">Hi 👋🏾, I'm Liban Abdullahi </h1>
+<h3 align="center">DevOps Engineer | Azure & AWS | Cloud, Automation & DataOps</h3>
 
-🚀 **Cloud & DevOps Engineer | AWS & Azure Specialist**  
-📍 Based in London | 🛠 5+ years building cloud infrastructure
-
+![Profile Views](https://komarev.com/ghpvc/?username=leighburn&label=Profile%20views&color=blue&style=flat-square)
 ---
 
 ### 💡 About Me
