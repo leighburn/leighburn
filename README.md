@@ -39,5 +39,8 @@ Currently working at **Franklin Templeton**, I collaborate with international te
 ---
 
 > “I’m passionate about building secure, scalable, and automated infrastructure—one commit at a time.”
+> ![ Stats](https://github-readme-stats.vercel.app/api?username=leighburn&theme=react&show_icons=true&hide_border=true&count_private=true)
+![ Streak](https://github-readme-streak-stats.herokuapp.com/?user=leighburn&theme=react&hide_border=true)
+![ Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leighburn&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 
