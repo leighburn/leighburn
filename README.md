@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Liban Abdullahi </h1>
-<h3 align="center">DevOps Engineer | Azure & AWS | Cloud, Automation & DataOps</h3>
+<h3 align="center">DevOps Engineer | AWS & Azure | Terraform | Docker | CI/CD</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=leighburn&label=Profile%20views&color=blue&style=flat-square)
 ---
@@ -8,7 +8,7 @@
 
 I'm a DevOps and Cloud Engineer with hands-on experience designing, deploying, and managing secure, scalable cloud environments using **AWS, Azure, and Infrastructure as Code tools like Terraform and CloudFormation**.
 
-Currently working at **Franklin Templeton**, I collaborate with international teams to implement efficient, automated solutions that ensure stability, security, and performance in the cloud.
+Currently working as a DevOps Engineer at GlobalNetict, I collaborate with teams to implement efficient, automated solutions that ensure stability, security, and performance across cloud environments.
 
 ---
 
@@ -34,7 +34,7 @@ Currently working at **Franklin Templeton**, I collaborate with international te
 ### 📫 Let’s Connect
 
 - Email: [leighburn@outlook.com](mailto:leighburn@outlook.com)  
-- LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/) *(add your real profile link)*
+- - LinkedIn: [liban-abdullahi-01b91620b](https://www.linkedin.com/in/liban-abdullahi-01b91620b/)
 
 ---
 
