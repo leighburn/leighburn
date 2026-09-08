@@ -6,15 +6,16 @@
 
 ### 💡 About Me
 
-I’m a DevOps and Cloud Engineer with hands-on cloud skills and real-world experience keeping technology running smoothly across financial services and healthcare.
+I’m a DevOps and Cloud Engineer with hands-on cloud expertise and experience supporting critical technology across financial services and healthcare.
 
-My primary specialism is Amazon Web Services (AWS), with transferable skills and working knowledge of Azure. I build, deploy and support cloud infrastructure using Terraform, Docker and Linux, and develop automated CI/CD workflows using Git, GitHub Actions and scripting. I also have working knowledge of Kubernetes, Bash and Python.
+I hold an AWS Solutions Architect certification and have skills in designing, developing and implementing cloud infrastructure using AWS, Azure, Terraform, Docker and Linux. I also build CI/CD workflows with GitHub Actions and have working knowledge of Kubernetes, Bash and Python.
 
-My practical DevOps work includes building the AWS CloudForge Platform—an end-to-end project combining AWS infrastructure, Terraform, Docker, Nginx and GitHub Actions to automate application deployment.
+My practical experience includes building the AWS CloudForge Platform and helping deliver a live clinical information system that enabled healthcare teams to provide efficient patient care—one of my proudest professional achievements.
 
-Before moving into DevOps, I was one of two Trade Floor Engineers supporting approximately 250 employees across London offices. I installed servers, configured Linux systems, supported networks, Bloomberg terminals and live FX trading systems, and delivered technology under strict deadlines. I have also contributed to NHS technology projects and supported systems integration during a major company acquisition while collaborating with international teams.
+Previously, I was one of two Trade Floor Engineers supporting approximately 250 employees, including Linux systems, networks, Bloomberg terminals and live FX trading platforms.
 
-I bring strong troubleshooting ability, production-environment experience and a genuine focus on automation, reliability and continuous improvement. My goal is to deliver dependable cloud solutions, take ownership of meaningful technical challenges and grow naturally into a DevOps leadership position.
+I’m passionate about automation, reliability and continuous improvement, with a growing interest in cloud-powered Robotics and AI. My goal is to deliver dependable cloud solutions, take ownership of meaningful technical challenges and grow naturally into a DevOps leadership position. I believe the technology we build today can continue improving people’s lives for generations.
+
 
 ---
 
